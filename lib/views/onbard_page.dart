@@ -2,6 +2,9 @@ import 'package:fayma_cash/controllers/onboard_controller.dart';
 import 'package:flutter/material.dart';
 import 'package:get/state_manager.dart';
 
+// 31/12/2020
+// ENd of this amazing year
+
 class OnboardPage extends StatelessWidget {
   final _controller = OnboardController();
   @override
