@@ -5,6 +5,7 @@ import 'package:get/state_manager.dart';
 // 31/12/2020
 // ENd of this amazing year
 // 01/01/2021
+// 02/01/2021
 class OnboardPage extends StatelessWidget {
   final _controller = OnboardController();
   @override
